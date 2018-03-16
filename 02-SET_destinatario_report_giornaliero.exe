@@ -1,0 +1,1 @@
+zmlocalconfig -e smtp_destination="$1"
